@@ -1,0 +1,2 @@
+﻿  ping_pong_game.cpp
+C:\Users\sumit\source\repos\Ping pong\ping_pong_game.cpp(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
